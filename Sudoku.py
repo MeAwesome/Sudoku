@@ -183,6 +183,9 @@ completions = 0
 times = 0
 tt = 0
 start_time = time.time()
+
+#This section below is purely for testing purposes
+#To create a board, just call board()
 while True:
     t1 = time.time()
     board()
